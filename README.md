@@ -219,11 +219,18 @@ See [frontend_enhancements.md](../brain/a2b3d02b-29cd-43c4-85cb-99307a3f2a62/fro
 
 ---
 
-## 📝 License
+## License
 
-This is a final year project for educational purposes.
+This repository is under a proprietary license.
 
----
+All rights are reserved. You may NOT:
+- Copy, redistribute, or sublicense the code.
+- Modify, adapt, or create derivative works.
+- Use this code for commercial purposes.
+
+Permission to use, modify, or redistribute this code may only be granted explicitly in writing by the copyright holder.
+
+See the [LICENSE](./LICENSE) file for full details.
 
 ## 👥 Contact
 
