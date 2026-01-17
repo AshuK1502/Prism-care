@@ -4,6 +4,8 @@
 
 A comprehensive healthcare AI platform for drug interaction analysis with tailored views for patients, doctors, and administrators.
 
+This is the rough sketch of project and still under development....contributors and interested parties are invited to contribute in it.
+
 ---
 
 ## 🚀 Quick Start
